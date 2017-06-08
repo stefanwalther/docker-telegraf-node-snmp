@@ -1,0 +1,27 @@
+{
+  "name": "docker-telegraf-node-snmp",
+  "version": "1.0.0",
+  "description": "Docker image with node.js and SNMP enabled.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "docker run -v ${PWD}:/opt/verb stefanwalther/docker-verb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/docker-telegraf-node-snmp.git"
+  },
+  "keywords": [
+    "docker",
+    "telegraf",
+    "snmp",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/docker-telegraf-node-snmp/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/docker-telegraf-node-snmp#readme"
+}
