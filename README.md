@@ -13,6 +13,8 @@ Telegraf image with
 
 installed.
 
+Docker Image: [stefanwalther/telegraf-node-snmp](https://hub.docker.com/r/stefanwalther/telegraf-node-snmp/)
+
 ## Reference Links
 
 - https://github.com/weldpua2008/docker-net-snmp
