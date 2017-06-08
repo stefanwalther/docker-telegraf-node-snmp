@@ -1,7 +1,7 @@
 {
   "name": "docker-telegraf-node-snmp",
   "version": "1.0.0",
-  "description": "Docker image with node.js and SNMP enabled.",
+  "description": "Docker image for Telegraf with node.js and SNMP enabled.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
