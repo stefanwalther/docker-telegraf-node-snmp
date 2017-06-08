@@ -2,7 +2,7 @@
 
 > Docker image for Telegraf with node.js and SNMP enabled.
 
-[![CircleCI](https://circleci.com/gh/stefanwalther/docker-telegraf-node-snmp.svg?style=svg)](https://circleci.com/gh/stefanwalther/docker-verb)
+[![CircleCI](https://circleci.com/gh/stefanwalther/docker-telegraf-node-snmp.svg?style=svg)](https://circleci.com/gh/stefanwalther/docker-telegraf-node-snmp)
 
 ## Motivation
 
