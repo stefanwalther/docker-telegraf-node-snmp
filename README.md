@@ -20,16 +20,6 @@ Docker Image: [stefanwalther/telegraf-node-snmp](https://hub.docker.com/r/stefan
 - https://github.com/weldpua2008/docker-net-snmp
 - https://hub.docker.com/r/nuntz/telegraf-snmp/
 
-## Installation
-
-### Prerequisites
-
-- [Docker for Mac](https://docs.docker.com/docker-for-mac/) / [Docker for Windows](https://docs.docker.com/docker-for-windows/)
-
-## Known Issues
-
-... none known so far ...
-
 ## Changelog
 
 See [CHANGELOG file](CHANGELOG.yml)
