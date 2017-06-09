@@ -4,13 +4,12 @@ machine:
   environment:
     CONTAINER_NAME: stefanwalther/telegraf-node-snmp
     CONTAINER_PORT: 8094
-    PATH: "${PATH}:${HOME}/.yarn/bin:${HOME}/${CIRCLE_PROJECT_REPONAME}/node_modules/.bin"
   services:
     - docker
 
 dependencies:
   pre:
-      - docker build --rm=false -t ${CONTAINER_NAME} .
+    - docker build --rm=false -t ${CONTAINER_NAME} .
 
 test:
   override:
