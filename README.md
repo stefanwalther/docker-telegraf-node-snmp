@@ -17,6 +17,7 @@ Docker Image: [stefanwalther/telegraf-node-snmp](https://hub.docker.com/r/stefan
 
 ## Reference Links
 
+- https://github.com/influxdata/influxdata-docker
 - https://github.com/weldpua2008/docker-net-snmp
 - https://hub.docker.com/r/nuntz/telegraf-snmp/
 
