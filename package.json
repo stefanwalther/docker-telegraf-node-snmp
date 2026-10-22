@@ -4,8 +4,7 @@
   "description": "Docker image for Telegraf with node.js and SNMP enabled.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs": "docker run -v ${PWD}:/opt/verb stefanwalther/docker-verb"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,7 @@
     "node.js",
     "nodejs"
   ],
-  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "author": "Stefan Walther",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stefanwalther/docker-telegraf-node-snmp/issues"
